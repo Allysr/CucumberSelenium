@@ -2,8 +2,11 @@
 <br> Curso de Cucumber com Selenium
 </h1>
 
-<h4 align="center">
-  Aprendendo a realizar cenários de testes com Cucumber, Java e Selenium.
- </h4>
-
+#### 🔖 Como executar o projeto:
+```diff 
+• git clone
+• cd cucumberSelenium
+• instale as dependencias maven
+• execute a classe de teste
+```
  <br>
